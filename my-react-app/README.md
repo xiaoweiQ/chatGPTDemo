@@ -1,10 +1,13 @@
 第一步：
+cd my-creat-app
+
+第二步:
 npm install --legacy-peer-deps
 
-第二步：
+第三步：
 npm start
 
-第三步：
+第四步：
 浏览器打开http://localhost:3000
 
 注意：
