@@ -1,5 +1,5 @@
 第一步：
-npm install
+npm install --legacy-peer-deps
 
 第二步：
 npm start
