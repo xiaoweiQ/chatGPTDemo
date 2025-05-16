@@ -19,7 +19,7 @@ class ChatAI {
   constructor() {
     this.openai = new OpenAI({
       baseURL: 'https://openrouter.ai/api/v1',
-      apiKey: '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',
+      apiKey: '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',
       dangerouslyAllowBrowser: true
     });
   }
